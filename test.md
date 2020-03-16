@@ -24,10 +24,3 @@ Paragraph
 import this
 print("code block")
 ```
-
-
-
-
-
-
-
