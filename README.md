@@ -2,7 +2,7 @@
 
 Combines [iAWriter](https://ia.net/writer) fonts with great [Typora](https://typora.io/):
 
-<img src="https://github.com/snipem/typora-iawriter-theme/raw/master/screenshot.png" width="480">
+<img src="https://github.com/snipem/typora-iawriter-theme/raw/master/screenshot.png" width="600">
 
 Based on [JacksonOfTrades iAWriter Theme for typora](https://github.com/JacksonOfTrades/iA-Writer-theme-for-Typora)
 
