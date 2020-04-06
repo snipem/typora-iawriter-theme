@@ -1,3 +1,7 @@
+/*
+// run: make test
+*/
+
 @font-face {
 
 font-family: 'iA Writer Duospace';
@@ -97,13 +101,44 @@ body > *:last-child {
     margin-bottom: 0 !important;
 }
 p a {
-    color: #1a1a1a;
     border-bottom: 1px solid #1a1a1a;
+    text-decoration: none;
 }
 
 p a:hover{
-    color: #1a1a1a;
     text-decoration: none;
+}
+
+/* Add asterisks */
+
+h1:before {
+    content: "#";
+    margin-right: 6px;
+}
+
+h2:before {
+    content: "##";
+    margin-right: 6px;
+}
+
+h3:before {
+    content: "###";
+    margin-right: 6px;
+}
+
+h4:before {
+    content: "####";
+    margin-right: 6px;
+}
+
+h5:before {
+    content: "#####";
+    margin-right: 6px;
+}
+
+h6:before {
+    content: "######";
+    margin-right: 6px;
 }
 
 h1,
