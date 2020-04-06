@@ -323,7 +323,7 @@ tt {
     border: 1px solid #ddd;
     border-radius: 3px;
     padding: 0;
-    font-family: "Consolas", "Liberation Mono", Courier, monospace;
+    font-family: "Fira Code", "Hack", "Menlo", "Consolas", "Liberation Mono", Courier, monospace;
     font-size: 12pt;
     background: #f9f9f9;
 }
